@@ -1,0 +1,13 @@
+This file contains steps according to which git checkpoints will be made in order of the steps.
+
+The session will closely resemble firebase codelab along with new features announced by google team for firebase in IO 2017 .
+
+Every method or block of code shall be properly commented so that audience can understand what the method does .
+
+
+Step 1: Making UI of messaging activity,signin activity (refer codelab). Linking of xml and java code.
+
+Step 2. connecting with firebase adding of dependencies 
+
+
+list to be appended as work progresses
